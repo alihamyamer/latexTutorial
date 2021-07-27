@@ -1,6 +1,6 @@
-PWD d:\Work\Research\Example\latexTutorial
+PWD d:\Work\Research\Github Material\Example\latexTutorial
 INPUT C:\Users\aliha\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Work\Research\Example\latexTutorial\tutorial.tex
+INPUT d:\Work\Research\Github Material\Example\latexTutorial\tutorial.tex
 OUTPUT tutorial.log
 INPUT C:\Users\aliha\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\aliha\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
