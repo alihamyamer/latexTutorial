@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1627411501 "d:/Work/Research/Github Material/Example/latexTutorial/tutorial.tex" "tutorial.pdf" "tutorial" 1627411504
+["pdflatex"] 1627411501 "d:/Work/Research/Github Material/Example/latexTutorial/tutorial.tex" "tutorial.pdf" "tutorial" 1627412461
   "C:/Users/aliha/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1621015970 9557845 5a4b27b6bb61150762231a1c86428686 ""
   "C:/Users/aliha/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1627326384 105921 14662298d15d660e577505059df50d7a ""
   "C:/Users/aliha/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -34,6 +34,6 @@
   "tutorial.aux" 1627411502 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "tutorial.tex" 1627411499 1253 8c4e69ea0e8d7d4e97b2599af70b1571 ""
   (generated)
+  "tutorial.aux"
   "tutorial.pdf"
   "tutorial.log"
-  "tutorial.aux"
